@@ -2,9 +2,8 @@
     margin: 0;
     padding: 0;
 }
-
 header {
-    background-color: rgb(255, 0, 0);
+    background-color: black;
     width: 100vw;
     height: 6svh;
     font-family: Georgia, 'Times New Roman', Times, serif;
